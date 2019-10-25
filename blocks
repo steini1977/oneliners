@@ -1,0 +1,1 @@
+10 print chr$(18+int(rnd(1)*2)*128);" ";:goto 10
